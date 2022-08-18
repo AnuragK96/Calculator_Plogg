@@ -1,6 +1,6 @@
 # calculator-plogg
 
-## Project setup
+## Project setup   
 ```
 yarn install
 ```
